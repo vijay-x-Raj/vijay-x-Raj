@@ -39,8 +39,8 @@
 
 ## 📊 GitHub Insights  
 
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true)  
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijay-x-Raj&show_icons=true&theme=default&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-x-Raj&layout=compact&theme=default&hide_border=true)  
 
 ---
 
