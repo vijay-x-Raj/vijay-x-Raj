@@ -44,7 +44,7 @@
 ## 📊 GitHub Insights  
 
 ![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijay-x-Raj&show_icons=true&theme=default&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-x-Raj&layout=compact&theme=default&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-x-Raj&layout=compact&theme=default&hide_border=true) 
 
 ---
 
@@ -54,6 +54,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vijayraj28) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/provijay)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:code.vijay.raj@gmail.com)
 
 </div>
 
