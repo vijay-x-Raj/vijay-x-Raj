@@ -50,21 +50,6 @@
 
 ---
 
----
-## 📂 Featured Projects  
-
-<p align="center">
-  <a href="https://github.com/vijay-x-Raj/Django_ChatApp
-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vijay-x-Raj&repo=your-repo-1&theme=default&hide_border=true" />
-  </a>
-  <a href="https://github.com/vijay-x-Raj/Weather_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vijay-x-Raj&repo=your-repo-2&theme=default&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/vijayraj28)  
