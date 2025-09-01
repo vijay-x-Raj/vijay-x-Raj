@@ -1,7 +1,54 @@
-# Hi there, I'm Vijay 👋
-💡 Enthusiastic learner | 🔭 Exploring AI/ML & Backend Development | 🎯 Aspiring Top 1% Engineer
+# Hi, I'm Vijay 👋  
 
-### 🚀 Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=black)
+💡 Enthusiastic learner | 🔭 Exploring AI/ML & Backend Development | 🎯 Aspiring Software Engineer  
+
+---
+
+## 🧑‍💻 About Me
+- 🔥 Passionate about **AI, ML, and scalable backend systems**  
+- 📚 Currently learning **Machine Learning, Django, and DSA**  
+- 🚀 On a journey to become a **Top 1% Engineer**  
+- 🤝 Open to **collaboration** on AI-driven and open-source projects  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Frameworks & Tools**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Insights  
+
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true)  
+
+---
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/vijayraj28)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/provijay)
+
+---
+
+⭐️ *"Striving for excellence, one commit at a time."*  
