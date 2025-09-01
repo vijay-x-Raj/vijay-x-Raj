@@ -4,6 +4,8 @@
 
 ---
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 ## 🧑‍💻 About Me
 - 🔥 Passionate about **AI, ML, and scalable backend systems**  
 - 📚 Currently learning **Machine Learning, Django, and DSA**  
