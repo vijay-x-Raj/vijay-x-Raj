@@ -1,8 +1,7 @@
-# Hi, I'm Vijay 👋  
+<h1 align="center" style="color:#4CAF50;">Hi, I'm <span style="color:#2196F3;">Vijay</span> 👋</h1>
 
-💡 Enthusiastic learner | 🔭 Exploring AI/ML & Backend Development | 🎯 Aspiring Software Engineer  
+<h4 align="center">💡 Enthusiastic learner | 🔭 Exploring AI/ML & Backend Development | 🎯 Aspiring Software Engineer </h4>
 
----
 ## 🧑‍💻 About Me
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -12,7 +11,6 @@
 - 🚀 On a journey to become a **Top 1% Engineer**  
 - 🤝 Open to **collaboration** on AI-driven and open-source projects  
 
----
 
 ## 🛠️ Tech Stack  
 
