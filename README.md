@@ -57,12 +57,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:code.vijay.raj@gmail.com)
 
 </div>
----
-
-### Hacktoberfest
-
-[![An image of @vijayxraj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vijayxraj)](https://holopin.io/@vijayxraj)
-
----
-
-⭐️ *"Striving for excellence, one commit at a time."*  
